@@ -39,9 +39,12 @@ Furthermore, the alert severity is reported as medium. With these findings, I ch
 
 ## Incident Handler's Journal
 ### Tool(s) used
-For this activity, I used VirusTotal, which is an investigative tool that analyzes files and URLs for malicious content such as viruses, worms, trojans, and more.  It's a very helpful tool to use if you want to quickly check if an indicator of compromise like a website or file has been reported as malicious by others in the cybersecurity community. For this activity, I used VirusTotal to analyze a file hash, which was reported as malicious. 
+#### VirusTotal
+An investigative tool that analyzes files and URLs for malicious content such as viruses, worms, trojans, and more.  It's a very helpful tool to use if you want to quickly check if an indicator of compromise like a website or file has been reported as malicious by others in the cybersecurity community. For this activity, I used VirusTotal to analyze a file hash, which was reported as malicious. 
 
-This incident occurred in the Detection and Analysis phase. The scenario put me in the place of a security analyst at a SOC investigating a suspicious file hash. After the suspicious file was detected by the security systems in place, I had to perform deeper analysis and investigation to determine if the alert signified a real threat. 
+#### [Phishing Playbook V1.0](https://github.com/Mathieu-Marthe/alert-ticket-and-incident-handling/blob/main/Phishing-incident-response-playbook.pdf)
+
+This incident occurred in the Detection and Analysis phase. After the suspicious file was detected by the security systems in place, I had to perform deeper analysis and investigation to determine if the alert signified a real threat. 
 
 ### Who 
 An unknown malicious actor 
