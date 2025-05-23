@@ -3,7 +3,7 @@
 Investigate a suspicious file hash
 
 ### Email
-s1
+![image](https://raw.githubusercontent.com/Mathieu-Marthe/alert-ticket-and-incident-handling/refs/heads/main/Email.png)
 
 ## Details
 
